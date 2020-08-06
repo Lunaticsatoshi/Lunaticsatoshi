@@ -67,16 +67,16 @@
 ---
 ## My Repositories
 <a href="https://github.com/Lunaticsatoshi/Tech-Blog">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Tech-Blog" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Tech-Blog&theme=blue-green" />
 </a>
 <a href="https://github.com/Lunaticsatoshi/Lolichat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Lolichat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Lolichat&theme=blue-green" />
 </a>
 <a href="https://github.com/Lunaticsatoshi/Sociality">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Sociality" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Sociality&theme=blue-green" />
 </a>
 <a href="https://github.com/Lunaticsatoshi/Covid19-Tracker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Covid19-Tracker" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Covid19-Tracker&theme=blue-green" />
 </a>
 
 [website]: https://all-stack-satoshi.netlify.app/
