@@ -60,9 +60,24 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+### My Stats
 <img align="left" alt="Satoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lunaticsatoshi&show_icons=true&theme=blue-green&hide_border=true" />
 <img align="left" alt="Satoshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunaticsatoshi&theme=blue-green&show=javascript,python,c++,dart,java" />
+
+---
+## My Repositories
+<a href="https://github.com/Lunaticsatoshi/Tech-Blog">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Tech-Blog" />
+</a>
+<a href="https://github.com/Lunaticsatoshi/Lolichat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Lolichat" />
+</a>
+<a href="https://github.com/Lunaticsatoshi/Sociality">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Sociality" />
+</a>
+<a href="https://github.com/Lunaticsatoshi/Covid19-Tracker">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Covid19-Tracker" />
+</a>
 
 [website]: https://all-stack-satoshi.netlify.app/
 [twitter]: https://twitter.com/lunaticsatoshi?s=03
