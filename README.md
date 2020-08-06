@@ -61,7 +61,8 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lunaticsatoshi&show_icons=true&theme=blue-green&hide_border=true" />
+<img align="left" alt="Satoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lunaticsatoshi&show_icons=true&theme=blue-green&hide_border=true" />
+<img align="left" alt="Satoshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunaticsatoshi&layout=compact" />
 
 [website]: https://all-stack-satoshi.netlify.app/
 [twitter]: https://twitter.com/lunaticsatoshi?s=03
