@@ -63,7 +63,6 @@
 
 ### My Stats
 <img align="left" alt="Satoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lunaticsatoshi&show_icons=true&theme=blue-green&hide_border=true" />
-<br />
 <img align="left" alt="Satoshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunaticsatoshi&theme=blue-green&hide=tcl" />
 
 <br />
@@ -79,7 +78,6 @@
 <a href="https://github.com/Lunaticsatoshi/Lolichat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Lolichat&theme=blue-green" />
 </a>
-<br />
 <a href="https://github.com/Lunaticsatoshi/Sociality">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Sociality&theme=blue-green" />
 </a>
