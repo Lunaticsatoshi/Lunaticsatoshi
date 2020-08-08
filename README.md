@@ -62,7 +62,7 @@
 ---
 ### My Stats
 <img align="left" alt="Satoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lunaticsatoshi&show_icons=true&theme=blue-green&hide_border=true" />
-<img align="left" alt="Satoshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunaticsatoshi&theme=blue-green&hide=c++,c,tcl" />
+<img align="left" alt="Satoshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunaticsatoshi&theme=blue-green&hide=tcl" />
 
 ---
 ## My Repositories
