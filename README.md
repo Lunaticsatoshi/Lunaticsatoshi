@@ -14,7 +14,7 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="www.linkedin.com/in/sudeep-deysarker">
+  <a href="https://www.linkedin.com/in/sudeep-deysarker">
     <img align="center" alt="Satoshi Unique Badge" width="200px" height="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> <emsp> 
   <a href="https://www.youtube.com/channel/UCAXdtCj0usV6FO3m4G6djQQ">
