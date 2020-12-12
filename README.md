@@ -71,18 +71,18 @@
 
 <p align="center">
   <a href="https://github.com/Lunaticsatoshi/Tech-Blog">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Tech-Blog&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Tech-Blog&theme=blue-green" />
   </a>
   <a href="https://github.com/Lunaticsatoshi/Lolichat">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Lolichat&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Lolichat&theme=blue-green" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Lunaticsatoshi/Sociality">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Sociality&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Sociality&theme=blue-green" />
   </a>
   <a href="https://github.com/Lunaticsatoshi/Covid19-Tracker">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Covid19-Tracker&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Covid19-Tracker&theme=blue-green" />
   </a>
 </p>
 
