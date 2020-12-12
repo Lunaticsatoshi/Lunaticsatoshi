@@ -61,8 +61,8 @@
 
 ### My Stats
 <div>
-<img align="left" alt="Satoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lunaticsatoshi&show_icons=true&theme=blue-green&hide_border=true" />
-<img align="right" alt="Satoshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunaticsatoshi&theme=blue-green&hide=tcl" />
+<img align="center" alt="Satoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lunaticsatoshi&show_icons=true&theme=blue-green&hide_border=true" />
+<img align="center" alt="Satoshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunaticsatoshi&theme=blue-green&hide=tcl" />
 </div>
 
 ---
@@ -85,7 +85,3 @@
 [youtube]: https://www.youtube.com/channel/UCAXdtCj0usV6FO3m4G6djQQ
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/sudeep-deysarker-074a12190
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
