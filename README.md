@@ -60,9 +60,11 @@
 ---
 
 ### My Stats
-<div>
-<img align="center" alt="Satoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lunaticsatoshi&show_icons=true&theme=blue-green&hide_border=true" />
-<img align="center" alt="Satoshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunaticsatoshi&theme=blue-green&hide=tcl" />
+<div align="center">
+  <img align="center" alt="Satoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lunaticsatoshi&show_icons=true&theme=blue-green&hide_border=true" />
+</div>
+<div align="center">
+  <img align="center" alt="Satoshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunaticsatoshi&theme=blue-green&hide=tcl" />
 </div>
 
 ---
@@ -72,7 +74,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Tech-Blog&theme=blue-green" />
   </a>
   <a href="https://github.com/Lunaticsatoshi/Lolichat">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Lolichat&theme=blue-green" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Lolichat&theme=blue-green" />
   </a>
 </p>
 <p>
@@ -80,7 +82,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Sociality&theme=blue-green" />
   </a>
   <a href="https://github.com/Lunaticsatoshi/Covid19-Tracker">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Covid19-Tracker&theme=blue-green" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Covid19-Tracker&theme=blue-green" />
   </a>
 </p>
 
