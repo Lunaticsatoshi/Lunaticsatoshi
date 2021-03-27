@@ -36,7 +36,7 @@ def getBio():
     "
     
 def main():
-  getBio()
+  print(getBio())
   
 if __name__ == '__main__':
   main()
