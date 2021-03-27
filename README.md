@@ -1,19 +1,55 @@
-### Hi there, I'm Sudeep- aka [Lunaticsatoshi][website] 👋
+<h1 align="center">
+  Hi 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  , I'm Sudeep Deysarker 
+</h1>
 
-## Full Stack Developer | React and Python Lover | Flutter Developer | ML/AI Enthusiast
-- 🔭 I’m currently working on a [lot of Things][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 Looking To contribute my share to open source
-- 🥅 2020 Goals: Contribute more to Open Source projects, help develop the community and learn new Technologies
-- ⚡ Fun fact: I love to watch Anime, Read Manga And Light novels and play guitar
+<h3 align="center">
+  Software Engineer | Full Stack Developer | React and Python Lover | ML/AI Enthusiast
+</h3>
+
+<br>
+
+<div align="center" >
+  <img alt="GIF"  height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</div>
+
+<br>
 
 <p align="center" style="margin-top: -25px;">
   <img src="https://komarev.com/ghpvc/?username=Lunaticsatoshi" alt="Lunaticsatoshi"/>
 </p>
 
-### Connect with me:
+<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me</h2>
 
-<p align="center">
+```python
+
+def getBio():
+    return f"
+    - 🏦 I'm currently working to improve my skills 
+    - 🤔 I code in .js, .ts, .go, .py
+    - 🌱 I’m currently learning docker 🐳 and kubernetes ☸
+    - 💬 Talk to me about football ⚽ , 💻 gadgets📱 & anything realted to tech 🤩.
+    - 😄 Pronouns: He/Him
+    - 📝 I regulary write articles on dev, hashnode and medium
+    - 🤩 I’m looking forward to Hacktoberfest
+    "
+    
+def main():
+  getBio()
+  
+if __name__ == '__main__':
+  main()
+
+```
+
+<br>
+
+<h2 align="center">
+  You can connect with me at <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="25" />
+</h2>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/sudeep-deysarker">
     <img align="center" alt="Satoshi Unique Badge" width="200px" height="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> <emsp> 
@@ -24,18 +60,109 @@
     <img align="center" alt="Satoshi Unique Badge" width="220px" height="50px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a> <emsp>
   
-</p>
+</div>
 
-<br />
+<br>
 
-### Languages and Tools:
+<details>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>  <img src="https://icongr.am/devicon/postgresql-original.svg" alt="postgres" width="40" height="40"/> <img src="https://icongr.am/devicon/java-original.svg" alt="webpack" width="40" height="40"/> <img src="https://icongr.am/devicon/go-original.svg" alt="Golang" width="40" height="40"/> <img src="https://icongr.am/devicon/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> <img src="https://icongr.am/devicon/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> <img src="https://icongr.am/devicon/ruby-original.svg" alt="ruby" width="40" height="40"/> <img src="https://icongr.am/devicon/vuejs-original.svg" alt="Vue" width="40" height="40"/> <img src="https://icongr.am/devicon/heroku-original.svg" alt="Heroku" width="40" height="40"/> <img src="https://icongr.am/devicon/vim-original.svg" alt="vim" width="40" height="40"/> <img src="https://icongr.am/devicon/django-original.svg" alt="django" width="100" height="60"/>
+<summary>More Info About me 😉</summary>
 
-</p>
+<h2 align="center">
+  Tech Stack <img src="https://media.giphy.com/media/kdQqSfBiIkAVGCAIOD/giphy.gif" width="25" />
+</h2>
 
-<br />
+<br>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/-Git-f1502f?style=for-the-badge&labelColor=black&logo=git&logoColor=f1502f" >
+  <img src="https://img.shields.io/badge/-GitHub-fff?style=for-the-badge&labelColor=black&logo=github&logoColor=fff" >
+  <img src="https://img.shields.io/badge/-VsCode-007acc?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007acc" >
+  <img src="https://img.shields.io/badge/-AndroidStudio-a4c639?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=a4c639" >
+  <img src="https://img.shields.io/badge/-Docker-049cec?style=for-the-badge&labelColor=black&logo=docker&logoColor=049cec" >
+  <img src="https://img.shields.io/badge/-Postman-ef5b26?style=for-the-badge&labelColor=black&logo=postman&logoColor=ef5b26" >
+  <img src="https://img.shields.io/badge/-Figma-b4c4f4?style=for-the-badge&labelColor=black&logo=figma&logoColor=b4c4f4" >
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" >
+  <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" >
+  <img src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=black&logo=python&logoColor=4b8bbe" >
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=white" >
+  <img src="https://img.shields.io/badge/-Go-29beb0?style=for-the-badge&labelColor=black&logo=go&logoColor=29beb0" >
+  <img src="https://img.shields.io/badge/-Dart-2cb7f6?style=for-the-badge&labelColor=black&logo=dart&logoColor=2cb7f6" >
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" >
+  <img src="https://img.shields.io/badge/-Deno-fff?style=for-the-badge&labelColor=black&logo=deno&logoColor=fff" >
+  <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" >
+  <img src="https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" >
+  <img src="https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D" >
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=white" >
+  <img src="https://img.shields.io/badge/-Flutter-2cb7f6?style=for-the-badge&labelColor=black&logo=flutter&logoColor=2cb7f6" >
+  <img src="https://img.shields.io/badge/-Django-092e20?style=for-the-badge&labelColor=black&logo=Django&logoColor=092e20" >
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=ruby-on-rails&logoColor=white" >
+  <img src="https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab" >
+  <!-- <img src="https://img.shields.io/badge/-Flask-fff?style=for-the-badge&labelColor=black&logo=flask&logoColor=fff" > -->
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <!--  -->
+  <img src="https://img.shields.io/badge/-MongoDB-3fa037?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3fa037" >
+  <img src="https://img.shields.io/badge/-MYSQL-f29111?style=for-the-badge&labelColor=black&logo=mysql&logoColor=f29111" >
+  <img src="https://img.shields.io/badge/-PostgresQL-00758f?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=00758f" >
+  <img src="https://img.shields.io/badge/-Firebase-ffa611?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa611" >
+
+</div>
+
+<br>
+
+<h3 align="center">
+  Top languages: <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
+</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunaticsatoshi&hide_border=true&theme=dark&langs_count=10&layout=compact&hide_border=true" alt="My Top Languages" />
+</div>
+
+
+<h3 align="center">
+  Profile stats: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25" />
+</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lunaticsatoshi&show_icons=true&hide_border=true&theme=dark" alt="Tejas's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lunaticsatoshi&show_icons=true&hide_border=true&theme=dark" />
+</div>
+
+<h3 align="center" >📕 Latest Blog Posts</h3>
+
+<div align="center">
+<!-- BLOG-POST-LIST:START -->
+- [Is Deno Gonna Kill Node js](https://all-stack-satoshi.netlify.app/is-deno-gonna-kill-nodejs)
+- [How to Perfectlt Pitch Your Guest Posts](https://all-stack-satoshi.netlify.app/how-to-perfectly-pitch-your-guest-post)
+- [What Defines A Tech Blog](https://all-stack-satoshi.netlify.app/what-defines-a-tech-blog-a-beginners-guide-to-the-world-of-tech-blogging)
+<!-- BLOG-POST-LIST:END -->
+</div>
+
+</details>
 
 ---
 
@@ -48,43 +175,6 @@
 - [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4) -->
 <!-- YOUTUBE:END -->
 
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Is Deno Gonna Kill Node js](https://all-stack-satoshi.netlify.app/is-deno-gonna-kill-nodejs)
-- [How to Perfectlt Pitch Your Guest Posts](https://all-stack-satoshi.netlify.app/how-to-perfectly-pitch-your-guest-post)
-- [What Defines A Tech Blog](https://all-stack-satoshi.netlify.app/what-defines-a-tech-blog-a-beginners-guide-to-the-world-of-tech-blogging)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### My Stats
-<p align="center">
-  <img align="center" alt="Satoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lunaticsatoshi&show_icons=true&theme=blue-green&hide_border=true" />
-</p>
-<p align="center">
-  <img align="center" alt="Satoshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunaticsatoshi&theme=blue-green&hide=tcl" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/Lunaticsatoshi/Tech-Blog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Tech-Blog&theme=blue-green" />
-  </a>
-  <a href="https://github.com/Lunaticsatoshi/Lolichat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Lolichat&theme=blue-green" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Lunaticsatoshi/Sociality">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Sociality&theme=blue-green" />
-  </a>
-  <a href="https://github.com/Lunaticsatoshi/Covid19-Tracker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunaticsatoshi&repo=Covid19-Tracker&theme=blue-green" />
-  </a>
-</p>
 
 [website]: https://all-stack-satoshi.netlify.app/
 [twitter]: https://twitter.com/lunaticsatoshi?s=03
