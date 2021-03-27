@@ -27,11 +27,11 @@
 def getBio():
     return f"
     - 🏦 I'm currently working to improve my skills 
-    - 🤔 I code in .js, .ts, .go, .py
+    - 🤔 I code in .js, .ts, .rb, .py
     - 🌱 I’m currently learning docker 🐳 and kubernetes ☸
-    - 💬 Talk to me about football ⚽ , 💻 gadgets📱 & anything realted to tech 🤩.
+    - 💬 Talk to me about anime, music, 💻 gadgets📱 & anything realted to tech 🤩.
     - 😄 Pronouns: He/Him
-    - 📝 I regulary write articles on dev, hashnode and medium
+    - 📝 I sometimes write on my Blog
     - 🤩 I’m looking forward to Hacktoberfest
     "
     
