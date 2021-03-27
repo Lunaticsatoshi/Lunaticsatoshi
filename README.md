@@ -154,14 +154,14 @@ if __name__ == '__main__':
 
 <h3 align="center" >📕 Latest Blog Posts</h3>
 
-<div align="center">
+<!-- <div align="center">
 <!-- BLOG-POST-LIST:START -->
 - [Is Deno Gonna Kill Node js](https://all-stack-satoshi.netlify.app/is-deno-gonna-kill-nodejs)
 - [How to Perfectlt Pitch Your Guest Posts](https://all-stack-satoshi.netlify.app/how-to-perfectly-pitch-your-guest-post)
 - [What Defines A Tech Blog](https://all-stack-satoshi.netlify.app/what-defines-a-tech-blog-a-beginners-guide-to-the-world-of-tech-blogging)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END 
 </div>
-
+-->
 </details>
 
 ---
