@@ -45,6 +45,10 @@ if __name__ == '__main__':
 
 <br>
 
+<div align="center" >
+  <img alt="GIF"  height="200px" style="border-radius:10px" src="./assets/coding.gif" />
+</div>
+
 <h2 align="center">
   You can connect with me at <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="25" />
 </h2>
