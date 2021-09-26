@@ -11,7 +11,7 @@
 <br>
 
 <div align="center" >
-  <img alt="GIF"  height="200px" src="https://count.getloli.com/get/@demo?theme=rule34" />
+  <img alt="GIF"  height="110px" width="450px" src="https://count.getloli.com/get/@demo?theme=rule34" />
 </div>
 
 <br>
